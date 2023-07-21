@@ -529,11 +529,11 @@ body {
   }
   
   &.disabled {
-    color: #11d9f6;
+    color: #59719d;
     background-color: rgba(89, 113, 157, 0.2);
     
     &:before {
-      background-color: #11d9f6;
+      background-color: #59719d;
     }
   }
 }
